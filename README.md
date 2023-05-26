@@ -1,6 +1,6 @@
 # Gift Card Generator Telegram Bot
 
-![Bot Logo](bot_logo.png)
+![Bot Logo]([bot_logo.png](https://avatars.githubusercontent.com/u/126974455?v=4))
 
 Welcome to the Gift Card Generator Telegram Bot repository! This repository contains the source code for a Telegram bot that generates gift card codes for various platforms, including PSN, Playstore, Roblox, Amazon, Netflix, Xbox, iTunes, Nitro, and TikTok.
 
@@ -46,7 +46,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Rights
 
-All rights are reserved to Brizzzrr, Sheekovic the author of this Telegram bot.
+All rights are reserved to [Brizzzrr]https://github.com/brizzzrr, [Sheekovic]https://github.com/Sheekovic the author of this Telegram bot.
 
 ## Disclaimer
 
