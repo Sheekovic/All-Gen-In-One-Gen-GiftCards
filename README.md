@@ -1,7 +1,6 @@
-<p align="center">
 # Gift Card Generator Telegram Bot
 
-
+<p align="center">
   <img src="https://avatars.githubusercontent.com/u/126974455?v=4" alt="Bot Logo">
 </p>
 
