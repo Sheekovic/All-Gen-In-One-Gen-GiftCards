@@ -50,10 +50,6 @@
   <li>Create a pull request to submit your changes for review</li>
 </ol>
 
-<h2>License</h2>
-
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-
 <h2>Rights</h2>
 
 <p>All rights are reserved to <a href="https://github.com/brizzzrr">Brizzzrr</a> and <a href="https://github.com/Sheekovic">Sheekovic</a>, the author of this Telegram bot.</p>
