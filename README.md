@@ -1,6 +1,7 @@
+<p align="center">
 <h1>Gift Card Generator Telegram Bot</h1>
 
-<p align="center">
+
   <img src="https://avatars.githubusercontent.com/u/126974455?v=4" alt="Bot Logo">
 </p>
 
