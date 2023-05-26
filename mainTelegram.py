@@ -96,6 +96,7 @@ def psn(update: Update, context: CallbackContext):
 
 def playstore(update: Update, context: CallbackContext):
     amount = context.user_data.get('amount')
+    amount = int(amount)
     context.bot.send_message(chat_id=update.effective_chat.id, text='------------PLAYSTORE CARD-------------\n')
     try:
         for play_store in range(amount):
@@ -225,7 +226,7 @@ def main() -> None:
     print('Bot started.')
 
     # Create an Updater instance with your bot token
-    updater = Updater(token='put your token here too', use_context=True)
+    updater = Updater(token='put your token here', use_context=True)
 
     # Get the dispatcher to register handlers
     dispatcher = updater.dispatcher
